@@ -24,10 +24,13 @@ then the data for each of these routes is displayed in a formatted JSON. When us
 There were no other contributers on this project
 
 ## Link
+
 ### Screencastify 
 
 https://watch.screencastify.com/v/tiH5ECRDNJIebIFzXpbd
+
 ### Github 
 
+https://github.com/hallerhc/E-Commerce
 
 ![Insomnia](https://user-images.githubusercontent.com/100663920/178085480-78e1b87f-8117-4b8d-b95f-c992bb920f75.png)
